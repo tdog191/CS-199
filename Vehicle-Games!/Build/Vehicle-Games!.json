@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Vehicle-Games!.data.unityweb",
+"asmCodeUrl": "Vehicle-Games!.asm.code.unityweb",
+"asmMemoryUrl": "Vehicle-Games!.asm.memory.unityweb",
+"asmFrameworkUrl": "Vehicle-Games!.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
